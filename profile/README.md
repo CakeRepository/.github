@@ -55,9 +55,10 @@ I enjoy helping small businesses understand and leverage Microsoft's service off
 
 Feel free to reach out—I'm always open to discussing automation, cloud solutions, or just sharing a good tech story.
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-[![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CakeRepository&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=CakeRepository&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CakeRepository&theme=darkhub&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CakeRepository&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
