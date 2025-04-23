@@ -69,4 +69,11 @@ Feel free to reach out—I'm always open to discussing automation, cloud solutio
 
 ---
 
-> "Automation is the pilot's checklist."
+## 📊 GitHub Stats
+
+[![Justin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CakeRepository&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CakeRepository&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+> _"Automation is the pilot's checklist."_ ✈️  
