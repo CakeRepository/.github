@@ -57,8 +57,9 @@ Feel free to reach out—I'm always open to discussing automation, cloud solutio
 
 ## 📈 GitHub Activity
 
-📊 GitHub Activity
-<p align="center"> <img src="https://streak-stats.demolab.com?user=CakeRepository&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CakeRepository&theme=darkhub&no-frame=true&column=4" alt="GitHub Trophies" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CakeRepository&layout=compact&theme=dark" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=CakeRepository&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </p> 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CakeRepository&theme=darkhub&no-frame=true&column=4" alt="GitHub Trophies" /> 
+</p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CakeRepository&layout=compact&theme=dark" alt="Top Languages" /> </p>
 
 ---
 
