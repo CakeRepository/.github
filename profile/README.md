@@ -28,8 +28,8 @@ I enjoy helping small businesses understand and leverage Microsoft's service off
 ## 🧰 Projects & Contributions
 
 - **[QB-Flow](https://flowdevs.io/qb-flow):** Developed a tool to automate QuickBooks workflows, enhancing efficiency for small businesses.
-- **[Chocolatey vs Winget](https://flowdevs.io/blog/chocolatey-vs-winget):** Authored a comparative analysis of Windows package managers to aid system engineers in selecting the right tool.
-- **[A Tale of Two Autopilots](https://flowdevs.io/blog/a-tale-of-two-autopilots):** Explored the nuances of automation in modern IT environments.
+- **[Chocolatey vs Winget](https://flowdevs.io/post/chocolatey-vs-winget):** Authored a comparative analysis of Windows package managers to aid system engineers in selecting the right tool.
+- **[A Tale of Two Autopilots](https://www.flowdevs.io/post/a-tale-of-two-autopilots):** Explored the nuances of automation in modern IT environments.
 
 ## 📝 Publications
 
