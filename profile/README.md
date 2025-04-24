@@ -21,9 +21,6 @@ I enjoy helping small businesses understand and leverage Microsoft's service off
 - **Certifications:**
   - Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)
   - Microsoft Certified: Power Platform Fundamentals (PL-900)
-  - Microsoft Certified: Azure Fundamentals (AZ-900)
-  - MSP Onboarding and Implementation Certification (Mimecast)
-  - Secure Email Gateway - Level 1 Warrior Certification (Mimecast)
 
 ## 🧰 Projects & Contributions
 
