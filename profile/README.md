@@ -1,5 +1,8 @@
 # Hi, I'm Justin Trantham
-> _"Automation is the pilot's checklist."_ ✈️  
+My Mottos
+> _"Automation is the pilot's checklist."_ <br>
+> _"Progress is a sign of Success."_ <br>
+> _"If you can fix it in 15 minutes it's free."_ 
 
 Welcome to my GitHub profile! I'm a Microsoft and Nerdio Certified Engineer with a passion for automation, cloud infrastructure, and empowering small businesses through technology. Currently, I serve as the Prime Automator at [FlowDevs.io](https://flowdevs.io), where I specialize in streamlining workflows using the Microsoft Power Platform, Azure, C#, and PowerShell.
 
