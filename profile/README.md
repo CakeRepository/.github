@@ -1,4 +1,5 @@
 # Hi, I'm Justin Trantham
+> _"Automation is the pilot's checklist."_ ✈️  
 
 Welcome to my GitHub profile! I'm a Microsoft and Nerdio Certified Engineer with a passion for automation, cloud infrastructure, and empowering small businesses through technology. Currently, I serve as the Prime Automator at [FlowDevs.io](https://flowdevs.io), where I specialize in streamlining workflows using the Microsoft Power Platform, Azure, C#, and PowerShell.
 
@@ -12,7 +13,7 @@ Welcome to my GitHub profile! I'm a Microsoft and Nerdio Certified Engineer with
 - 📍 **Location:** Eagan, Minnesota
 - 📧 **Contact:** [justin.trantham@flowdevs.io](mailto:justin.trantham@flowdevs.io)
 
-I enjoy helping small businesses understand and leverage Microsoft's service offerings to transform their operations. Through the years, it's been fascinating to reflect on how much the industry has evolved. Not everyone has a friend or relative to guide them, so feel free to reach out—I'd love to hear from you.
+I enjoy helping small businesses understand and leverage Microsoft's service offerings to transform their operations. Through the years, it's been fascinating to reflect on how much the industry has evolved. Not everyone has a friend or relative to guide them, so feel free to reach out I'd love to hear from you.
 
 ## 🛠️ Technical Skills
 
@@ -61,4 +62,4 @@ Feel free to reach out—I'm always open to discussing automation, cloud solutio
 
 ---
 
-> _"Automation is the pilot's checklist."_ ✈️  
+
