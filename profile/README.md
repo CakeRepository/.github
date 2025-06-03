@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Microsoft and Nerdio Certified Engineer with
 ## About Me
 
 - 💼 **Current Role:** Prime Automator at [FlowDevs.io](https://flowdevs.io/team/justin-trantham)
-- 💼 **Current Role:** Implementation Engineer at [netgaincloud](https://www.netgaincloud.com)
+- 💼 **Current Role:** Implementation Engineer at [Netgain Technology](https://www.netgaincloud.com)
 - 🛠️ **Expertise:** Microsoft Power Platform, Azure Virtual Desktop, C#, PowerShell, Low-Code Automation
 - 📍 **Location:** Eagan, Minnesota
 - 📧 **Contact:** [justin.trantham@flowdevs.io](mailto:justin.trantham@flowdevs.io)
