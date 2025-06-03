@@ -20,7 +20,7 @@ I enjoy helping small businesses understand and leverage Microsoft's service off
 
 ## 🛠️ Technical Skills
 
-- **Languages & Scripting:** C#, PowerShell
+- **Languages & Scripting:** C#, PowerShell, **Agentic Programming** Python with Claude
 - **Cloud Platforms:** Microsoft Azure, Azure Virtual Desktop
 - **Automation Tools:** Microsoft Power Platform (Power Automate, Power Apps), Chocolatey, Winget
 - **Certifications:**
