@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Microsoft and Nerdio Certified Engineer with
 - 📍 **Location:** Eagan, Minnesota
 - 📧 **Contact:** [justin.trantham@flowdevs.io](mailto:justin.trantham@flowdevs.io)
 
-I enjoy helping small businesses understand and leverage Microsoft's service offerings to transform their operations. Through the years, it's been fascinating to reflect on how much the industry has evolved. Not everyone has a friend or relative to guide them, so feel free to reach out I'd love to hear from you.
+I enjoy helping others understand and leverage Microsoft's service offerings to transform their operations. Through the years, it's been fascinating to reflect on how much the industry has evolved. Not everyone has a friend or relative to guide them, so feel free to reach out I'd love to hear from you.
 
 ## 🛠️ Technical Skills
 
