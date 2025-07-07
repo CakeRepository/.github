@@ -29,7 +29,7 @@ I enjoy helping others understand and leverage Microsoft's service offerings to 
 
 ## 🧰 Projects & Contributions
 
-- **[QB-Flow](https://flowdevs.io/qb-flow):** Developed a tool to automate QuickBooks workflows, enhancing efficiency for small businesses.
+- **[QB-Flow](https://flowdevs.io/qb-flow):** Developed a tool to automate QuickBooks workflows, enhancing efficiency.
 - **[Chocolatey vs Winget](https://www.flowdevs.io/post/chocolatey-vs-winget-modern-windows-package-management-for-system-engineers):** Authored a comparative analysis of Windows package managers to aid system engineers in selecting the right tool.
 - **[A Tale of Two Autopilots](https://www.flowdevs.io/post/a-tale-of-two-autopilots):** Explored the nuances of automation in modern IT environments.
 
@@ -55,7 +55,8 @@ I enjoy helping others understand and leverage Microsoft's service offerings to 
 - **LinkedIn:** [linkedin.com/in/justin-trantham](https://www.linkedin.com/in/justin-trantham)
 - **Email:** [justin.trantham@flowdevs.io](mailto:justin.trantham@flowdevs.io)
 
-Feel free to reach out—I'm always open to discussing automation, cloud solutions, or just sharing a good tech story.
+### Feel free to reach out 
+I'm always open to discussing automation, cloud solutions, or just sharing a good tech story.
 
 ## 📈 GitHub Activity
 
