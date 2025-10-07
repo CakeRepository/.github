@@ -42,7 +42,7 @@ I enjoy helping others understand and leverage Microsoft's service offerings to 
 
 ## 🧰 Projects & Contributions
 
-- **[Our Projects](https://takescake.com/):** Discover collaborative solutions and showcases from the team.
+- **[MTG Card Search Engine](https://takescake.com/):** AI-powered MTG card search with Gemma semantic embeddings.
 - **[QB-Flow](https://flowdevs.io/qb-flow):** Developed a tool to automate QuickBooks workflows, enhancing efficiency.
 - **[Chocolatey vs Winget](https://www.flowdevs.io/post/chocolatey-vs-winget-modern-windows-package-management-for-system-engineers):** Authored a comparative analysis of Windows package managers to aid system engineers in selecting the right tool.
 - **[A Tale of Two Autopilots](https://www.flowdevs.io/post/a-tale-of-two-autopilots):** Explored the nuances of automation in modern IT environments.
