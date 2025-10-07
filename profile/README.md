@@ -24,11 +24,25 @@ I enjoy helping others understand and leverage Microsoft's service offerings to 
 - **Cloud Platforms:** Microsoft Azure, Azure Virtual Desktop
 - **Automation Tools:** Microsoft Power Platform (Power Automate, Power Apps), Chocolatey, Winget
 - **Certifications:**
-  - Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)
-  - Microsoft Certified: Power Platform Fundamentals (PL-900)
+  - [Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)](https://learn.microsoft.com/api/credentials/share/en-us/takescake/496AACAE6039BB6B?sharingId=E52D3E764CCA814C)
+  - [Microsoft Certified: Power Platform Fundamentals (PL-900)](https://learn.microsoft.com/api/credentials/share/en-us/takescake/C4DB2552DBE81A40?sharingId=E52D3E764CCA814C)
+  - [GitHub Copilot Certification Program (GH-300)](https://learn.microsoft.com/api/credentials/share/en-us/takescake/DFCC6C77050E272F?sharingId=E52D3E764CCA814C)
+
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/takescake/496AACAE6039BB6B?sharingId=E52D3E764CCA814C">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg?branch=main" alt="Microsoft Certified: Azure Virtual Desktop Specialty Badge" width="200" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/takescake/C4DB2552DBE81A40?sharingId=E52D3E764CCA814C">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Power Platform Fundamentals Badge" width="200" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/takescake/DFCC6C77050E272F?sharingId=E52D3E764CCA814C">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/github-copilot.svg?branch=main" alt="GitHub Copilot Certification Program Badge" width="200" />
+  </a>
+</p>
 
 ## 🧰 Projects & Contributions
 
+- **[Our Projects](https://takescake.com/):** Discover collaborative solutions and showcases from the team.
 - **[QB-Flow](https://flowdevs.io/qb-flow):** Developed a tool to automate QuickBooks workflows, enhancing efficiency.
 - **[Chocolatey vs Winget](https://www.flowdevs.io/post/chocolatey-vs-winget-modern-windows-package-management-for-system-engineers):** Authored a comparative analysis of Windows package managers to aid system engineers in selecting the right tool.
 - **[A Tale of Two Autopilots](https://www.flowdevs.io/post/a-tale-of-two-autopilots):** Explored the nuances of automation in modern IT environments.
