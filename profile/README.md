@@ -26,6 +26,11 @@ I enjoy helping others understand and leverage Microsoft's service offerings to 
 - **Certifications:**
   - Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)
   - Microsoft Certified: Power Platform Fundamentals (PL-900)
+  - [GitHub Copilot Certification Program (GH-300)](https://learn.microsoft.com/api/credentials/share/en-us/takescake/DFCC6C77050E272F?sharingId=E52D3E764CCA814C)
+
+<p align="center">
+  <img src="https://learn.microsoft.com/api/credentials/share/en-us/takescake/DFCC6C77050E272F/image" alt="GitHub Copilot Certification Badge" width="200" />
+</p>
 
 ## 🧰 Projects & Contributions
 
