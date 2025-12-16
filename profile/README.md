@@ -1,82 +1,97 @@
-# Hi, I'm Justin Trantham
-My Mottos
-> _"Automation is the pilot's checklist."_ <br>
-> _"Progress is a sign of Success."_ <br>
-> _"If you can fix it in 15 minutes it's free."_ 
+# Hi, I'm Justin Trantham 👋
+### _The Plato of Pluto_ | CEO & Prime Automator at [FlowDevs](https://flowdevs.io)
 
-Welcome to my GitHub profile! I'm a Microsoft and Nerdio Certified Engineer with a passion for automation, cloud infrastructure, and empowering businesses through technology. Currently, I serve as the Prime Automator at [FlowDevs.io](https://flowdevs.io), where I specialize in streamlining workflows using the Microsoft Power Platform, Azure, C#, and PowerShell.
+> _"Automation is the pilot's checklist."_
+>
+> _"Progress is a sign of Success."_
+>
+> _"If you can fix it in 15 minutes it's free."_
 
 ---
 
-## About Me
+### 🚀 Mission
+**To increase learning rates by increasing speed to knowledge in a scalable, trackable, and repeatable way.**
 
-- 💼 **Current Role:** Prime Automator at [FlowDevs.io](https://flowdevs.io/team/justin-trantham)
-- 🛠️ **Expertise:** Microsoft Power Platform, Azure Virtual Desktop, C#, PowerShell, Low-Code Automation
-- 📍 **Location:** Eagan, Minnesota
-- 📧 **Contact:** [justin.trantham@flowdevs.io](mailto:justin.trantham@flowdevs.io)
+---
 
-I enjoy helping others understand and leverage Microsoft's service offerings to transform their operations. Through the years, it's been fascinating to reflect on how much the industry has evolved. Not everyone has a friend or relative to guide them, so feel free to reach out I'd love to hear from you.
+### 👨‍💻 About Me
 
-## 🛠️ Technical Skills
+I am a **Microsoft and Nerdio Certified Engineer** and the **Prime Automator** at **FlowDevs.io**. I specialize in streamlining workflows using the Microsoft Power Platform, Azure, C#, and PowerShell.
 
-- **Languages & Scripting:** C#, PowerShell, **Agentic Programming** Python with Claude
-- **Cloud Platforms:** Microsoft Azure, Azure Virtual Desktop
-- **Automation Tools:** Microsoft Power Platform (Power Automate, Power Apps), Chocolatey, Winget
-- **Certifications:**
-  - [Microsoft Certified: Azure Virtual Desktop Specialty (AZ-140)](https://learn.microsoft.com/api/credentials/share/en-us/takescake/496AACAE6039BB6B?sharingId=E52D3E764CCA814C)
-  - [Microsoft Certified: Power Platform Fundamentals (PL-900)](https://learn.microsoft.com/api/credentials/share/en-us/takescake/C4DB2552DBE81A40?sharingId=E52D3E764CCA814C)
-  - [GitHub Copilot Certification Program (GH-300)](https://learn.microsoft.com/api/credentials/share/en-us/takescake/DFCC6C77050E272F?sharingId=E52D3E764CCA814C)
+My passion lies in "Agentic Programming" and building systems that allow businesses (and individuals) to focus on what matters. Whether it's migrating cloud infrastructure or coding custom ESP32 wearable tech to connect people at events, I believe in using technology to bridge gaps.
 
-<p align="center">
+- 🔭 **Currently Working On:** Launching **"5-Minute Flows"**, a YouTube series specializing in Power Automate and the Power Platform.
+- 💼 **Current Role:** CEO & Prime Automator at [FlowDevs.io](https://flowdevs.io/team/justin-trantham)
+- 📍 **Location:** Minnesota, USA
+- 🏹 **Hobbies:** Archery (Compound Bow), Magic: The Gathering, Drone Racing, and Fitness.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | C#, PowerShell, Python (Agentic w/ Claude), JavaScript |
+| **Automation** | **Power Platform (Automate, Apps)**, Logic Apps, Selenium |
+| **Cloud & Infra** | Microsoft Azure, Azure Virtual Desktop (AVD), Nerdio |
+| **Package Mgmt** | Chocolatey, Winget |
+| **Hardware/IoT** | ESP32, Wearable Tech |
+
+---
+
+### 🏆 Certifications
+
+<p align="left">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/takescake/496AACAE6039BB6B?sharingId=E52D3E764CCA814C">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg?branch=main" alt="Microsoft Certified: Azure Virtual Desktop Specialty Badge" width="200" />
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-specialty-badge.svg?branch=main" alt="AZ-140" width="110" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/takescake/C4DB2552DBE81A40?sharingId=E52D3E764CCA814C">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Power Platform Fundamentals Badge" width="200" />
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="PL-900" width="110" />
   </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/takescake/DFCC6C77050E272F?sharingId=E52D3E764CCA814C">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/github-copilot.svg?branch=main" alt="GitHub Copilot Certification Program Badge" width="200" />
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/github-copilot.svg?branch=main" alt="GH-300" width="110" />
   </a>
 </p>
 
-## 🧰 Projects & Contributions
+---
 
-- **[MTG Card Search Engine](https://takescake.com/):** AI-powered MTG card search with Gemma semantic embeddings.
-- **[QB-Flow](https://flowdevs.io/qb-flow):** Developed a tool to automate QuickBooks workflows, enhancing efficiency.
-- **[Chocolatey vs Winget](https://www.flowdevs.io/post/chocolatey-vs-winget-modern-windows-package-management-for-system-engineers):** Authored a comparative analysis of Windows package managers to aid system engineers in selecting the right tool.
-- **[A Tale of Two Autopilots](https://www.flowdevs.io/post/a-tale-of-two-autopilots):** Explored the nuances of automation in modern IT environments.
+### 🧰 Selected Projects
 
-## 📝 Publications
+- **[MTG Card Search Engine](https://takescake.com/)**
+  *AI-powered Magic: The Gathering card search utilizing Gemma semantic embeddings for intuitive discovery.*
 
-- **[How Low Code Automation is Revolutionizing the Workforce](https://www.linkedin.com/pulse/how-low-code-automation-revolutionizing-workforce-justin-trantham):** Discussed the impact of low-code platforms on modern business operations.
-- **[Automation: The Method for an Augmented Workforce](https://www.linkedin.com/pulse/automation-method-more-productive-workforce-justin-trantham):** Explored how automation serves as a step-by-step guide to enhance productivity.
+- **[QB-Flow](https://flowdevs.io/qb-flow)**
+  *A robust tool designed to automate QuickBooks workflows, significantly reducing manual entry and errors.*
 
-## 🧳 Career Journey
+- **Social Connect Name Tags (In Progress)**
+  *Developing wearable name tags using ESP32 devices to facilitate better social connections and networking at events.*
 
-- **Geek Squad:** Started my IT career as an Advanced Repair Agent, embracing the mantra: "If you can fix it in 15 minutes, it's free."
-- **Netgain Cloud:** Progressed from Field Service Engineer to Client Implementation Engineer, assisting doctors during the COVID-19 pandemic to transition to remote work environments.
-- **Coordinated Business Solutions:** Focused on Quarterly Business Reviews and modernizing server infrastructure, from initial quotes to go-live configurations.
-- **Netgain Cloud (Current):** Returned as an Implementation Engineer, onboarding thousands of users into Azure Virtual Desktop and crafting playbooks for various offerings.
-
-## 🎯 Interests
-
-- **Automation:** Passionate about automating tasks both professionally and personally. "Automation is the pilot's checklist."
-- **Hobbies:** Snowboarding, drone racing, and attending the Minnesota Renaissance Festival.
-
-## 📫 Let's Connect
-
-- **LinkedIn:** [linkedin.com/in/justin-trantham](https://www.linkedin.com/in/justin-trantham)
-- **Email:** [justin.trantham@flowdevs.io](mailto:justin.trantham@flowdevs.io)
-
-### Feel free to reach out 
-I'm always open to discussing automation, cloud solutions, or just sharing a good tech story.
-
-## 📈 GitHub Activity
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=CakeRepository&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </p> 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CakeRepository&theme=darkhub&no-frame=true&column=4" alt="GitHub Trophies" /> 
-</p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CakeRepository&layout=compact&theme=dark" alt="Top Languages" /> </p>
+- **[Chocolatey vs Winget](https://www.flowdevs.io/post/chocolatey-vs-winget-modern-windows-package-management-for-system-engineers)**
+  *A comparative technical analysis of Windows package managers for system engineers.*
 
 ---
 
+### 📝 Latest Publications
 
+- **[How Low Code Automation is Revolutionizing the Workforce](https://www.linkedin.com/pulse/how-low-code-automation-revolutionizing-workforce-justin-trantham)**
+- **[Automation: The Method for an Augmented Workforce](https://www.linkedin.com/pulse/automation-method-more-productive-workforce-justin-trantham)**
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CakeRepository&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CakeRepository&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let's Connect</b><br>
+  <a href="https://www.linkedin.com/in/justin-trantham">LinkedIn</a> • 
+  <a href="mailto:justin.trantham@flowdevs.io">Email</a> • 
+  <a href="https://flowdevs.io">FlowDevs.io</a>
+</p>
