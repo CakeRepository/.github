@@ -18,12 +18,12 @@
 
 I am a **Microsoft and Nerdio Certified Engineer** and the **Prime Automator** at **FlowDevs.io**. I specialize in streamlining workflows using the Microsoft Power Platform, Azure, C#, and PowerShell.
 
-My passion lies in "Agentic Programming" and building systems that allow businesses (and individuals) to focus on what matters. Whether it's migrating cloud infrastructure or coding custom ESP32 wearable tech to connect people at events, I believe in using technology to bridge gaps.
+My passion lies in **"Vibecoding"** (Agentic Programming) and building systems that allow businesses to focus on what matters. Whether it's migrating cloud infrastructure, creating content for **Techne.blog**, or coding custom ESP32 wearable tech, I believe in using technology to bridge gaps.
 
-- 🔭 **Currently Working On:** Launching **"5-Minute Flows"**, a YouTube series specializing in Power Automate and the Power Platform.
+- 🔭 **Currently Working On:** Building **[SupplyFlow](https://flowdevs.io)** and preparing to speak on **"Vibecoding"** at **MnTech Connect**.
 - 💼 **Current Role:** CEO & Prime Automator at [FlowDevs.io](https://flowdevs.io/team/justin-trantham)
 - 📍 **Location:** Minnesota, USA
-- 🏹 **Hobbies:** Archery (Compound Bow), Magic: The Gathering, Drone Racing, and Fitness.
+- 🏹 **Hobbies:** Archery (Compound Bow), Magic: The Gathering, FPV Drone Racing, 3D Printing, and Public Speaking (Toastmasters).
 
 ---
 
@@ -35,7 +35,7 @@ My passion lies in "Agentic Programming" and building systems that allow busines
 | **Automation** | **Power Platform (Automate, Apps)**, Logic Apps, Selenium |
 | **Cloud & Infra** | Microsoft Azure, Azure Virtual Desktop (AVD), Nerdio |
 | **Package Mgmt** | Chocolatey, Winget |
-| **Hardware/IoT** | ESP32, Wearable Tech |
+| **Hardware/IoT** | ESP32, Wearable Tech, Mac Mini M4 |
 
 ---
 
@@ -57,22 +57,26 @@ My passion lies in "Agentic Programming" and building systems that allow busines
 
 ### 🧰 Selected Projects
 
-- **[MTG Card Search Engine](https://takescake.com/)**
-  *AI-powered Magic: The Gathering card search utilizing Gemma semantic embeddings for intuitive discovery.*
+- **[Techne.blog](https://techne.blog)**
+  *A new platform exploring the intersection of technology, art, and automation.*
 
 - **[QB-Flow](https://flowdevs.io/qb-flow)**
   *A robust tool designed to automate QuickBooks workflows, significantly reducing manual entry and errors.*
 
+- **[SupplyFlow](https://flowdevs.io)**
+  *Next-generation supply chain automation tools.*
+
+- **[MTG Card Search Engine](https://takescake.com/)**
+  *AI-powered Magic: The Gathering card search utilizing Gemma semantic embeddings for intuitive discovery.*
+
 - **Social Connect Name Tags (In Progress)**
   *Developing wearable name tags using ESP32 devices to facilitate better social connections and networking at events.*
-
-- **[Chocolatey vs Winget](https://www.flowdevs.io/post/chocolatey-vs-winget-modern-windows-package-management-for-system-engineers)**
-  *A comparative technical analysis of Windows package managers for system engineers.*
 
 ---
 
 ### 📝 Latest Publications
 
+- **[Chocolatey vs Winget: Modern Windows Package Management](https://www.flowdevs.io/post/chocolatey-vs-winget-modern-windows-package-management-for-system-engineers)**
 - **[How Low Code Automation is Revolutionizing the Workforce](https://www.linkedin.com/pulse/how-low-code-automation-revolutionizing-workforce-justin-trantham)**
 - **[Automation: The Method for an Augmented Workforce](https://www.linkedin.com/pulse/automation-method-more-productive-workforce-justin-trantham)**
 
@@ -82,9 +86,6 @@ My passion lies in "Agentic Programming" and building systems that allow busines
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CakeRepository&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CakeRepository&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
