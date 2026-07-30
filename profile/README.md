@@ -32,4 +32,4 @@ At **[FlowDevs](https://www.flowdevs.io/)**, we help MSPs and SMBs connect syste
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/justin-trantham/) · [FlowDevs GitHub](https://github.com/flowdevs-io) · [About me](https://www.flowdevs.io/team/justin-trantham)
+[LinkedIn](https://www.linkedin.com/in/justin-trantham/) · [FlowDevs Discord](http://discord.flowdevs.io) · [FlowDevs GitHub](https://github.com/flowdevs-io) · [About me](https://www.flowdevs.io/team/justin-trantham)
