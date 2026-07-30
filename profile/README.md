@@ -15,6 +15,7 @@
 - Integrations & workflow automation
 - Internal tools / light business apps
 - Agentic/AI-assisted systems (vibecoding)
+- Video Evidence of me coding 10+ years ago https://www.youtube.com/watch?v=JmOVmXvs_eE
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/justin-trantham/
