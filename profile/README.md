@@ -15,6 +15,7 @@ At **[FlowDevs](https://www.flowdevs.io/)**, we help MSPs and SMBs connect syste
 - **[Farmers to Florists](https://www.farmerstoflorists.com/)** - marketplace and planning tools for local flower businesses
 - **[Techne](https://techne.blog/)** - content operations for teams and AI agents
 - **[PetalAtlas](https://play.google.com/store/apps/details?id=com.petalatlas.app&hl=en-US&pli=1)** - a mobile plant and flower reference app
+- **[What Would AI Jesus Do?](https://wwaijd.org/)** - free Bible study tools with scripture-based answers, prayer, parables, and quizzes
 
 ## Proof of work
 
