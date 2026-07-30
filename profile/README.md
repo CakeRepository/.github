@@ -9,7 +9,7 @@
 ## Proof
 - Combined **4 ERP systems** into **1 print log**, eliminating ~**1 hour/day** of manual work.
 - Built a platform used by **20+ farms**.
-- Shipped **3+ published applications in 2026** (by April).
+- Shipped **6+ published applications in 2026** (by July).
 
 ## What we build
 - Integrations & workflow automation
