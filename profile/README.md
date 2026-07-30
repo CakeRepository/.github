@@ -9,6 +9,7 @@ At **[FlowDevs](https://www.flowdevs.io/)**, we help MSPs and SMBs connect syste
 ## Selected projects
 
 - **[FlowRMM](https://flowrmm.com/)** - a computer control plane for humans and AI agents
+- **Flow-CRM** - our custom PSA with MCP for tracking tickets, clients, time, and service operations
 - **[Farmers to Florists](https://www.farmerstoflorists.com/)** - marketplace and planning tools for local flower businesses
 - **[Techne](https://techne.blog/)** - content operations for teams and AI agents
 - **[PetalAtlas](https://play.google.com/store/apps/details?id=com.petalatlas.app&hl=en-US&pli=1)** - a mobile plant and flower reference app
