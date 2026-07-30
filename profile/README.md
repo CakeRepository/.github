@@ -9,6 +9,7 @@ At **[FlowDevs](https://www.flowdevs.io/)**, we help MSPs and SMBs connect syste
 ## Selected projects
 
 - **[FlowRMM](https://flowrmm.com/)** - a computer control plane for humans and AI agents
+- **[QB-Flow](https://www.flowdevs.io/qb-flow)** - automated QuickBooks Desktop updates for MSPs and IT teams
 - **Flow-CRM** - our custom PSA with MCP for tracking tickets, clients, time, and service operations
 - **[1Password MCP](https://github.com/CakeRepository/1Password-MCP)** - an MCP server for securely accessing and managing 1Password data
 - **[Farmers to Florists](https://www.farmerstoflorists.com/)** - marketplace and planning tools for local flower businesses
