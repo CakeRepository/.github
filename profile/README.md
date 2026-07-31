@@ -13,6 +13,7 @@ At **[FlowDevs](https://www.flowdevs.io/)**, we help MSPs and SMBs connect syste
 - **Flow-CRM** - our custom PSA with MCP for tracking tickets, clients, time, and service operations
 - **[1Password MCP](https://github.com/CakeRepository/1Password-MCP)** - an MCP server for securely accessing and managing 1Password data
 - **[Farmers to Florists](https://www.farmerstoflorists.com/)** - marketplace and planning tools for local flower businesses
+- **[Project Extremis](https://projectextremis.com/)** - the official site for a feature screenplay inspired by the USS Belknap disaster, with archival history and fundraising
 - **[Techne](https://techne.blog/)** - content operations for teams and AI agents
 - **[PetalAtlas](https://play.google.com/store/apps/details?id=com.petalatlas.app&hl=en-US&pli=1)** - a mobile plant and flower reference app
 - **[What Would AI Jesus Do?](https://wwaijd.org/)** - free Bible study tools with scripture-based answers, prayer, parables, and quizzes
